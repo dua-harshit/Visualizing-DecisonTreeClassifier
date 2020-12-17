@@ -4,7 +4,7 @@ Decision Tree is a Supervised learning technique that is mostly preferred for so
 
 In Simple words it is a graphical representation for getting all the possible solutions to a problem/decision based on given conditions.
 
-**Libraries used**
+## **Libraries used**
 pandas - python library used for data manipulation and analysis.
 
 numpy - python library used to perform high-level mathematical functions on large multi-dimensional arrays and matrices.
